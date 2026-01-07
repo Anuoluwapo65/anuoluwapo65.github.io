@@ -7,7 +7,7 @@ subtitle: "Undergraduate student @ <a href='https://oauife.edu.ng/'>Obafemi Awol
 profile:
   align: right
   image: profile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>Faculty of Dentistry</p>
     <p>Obafemi Awolowo University</p>
