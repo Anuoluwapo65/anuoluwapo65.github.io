@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0001-1859-3313", "_blank");
+          window.open("https://orcid.org/0009-0001-1859-3313", "_blank");
         },
       },{
         id: 'social-rss',
@@ -523,13 +523,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=07VtcysAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/anuoluwapo-abidoye-92474124b/", "_blank");
         },
       },{
       id: 'light-theme',
