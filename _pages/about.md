@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 Currently, I’m a second-year undergraduate student in the Faculty of Dentistry at
-[Obafemi Awolowo University](https://oauife.edu.ng/). My research interests lies in the field of 
+[Obafemi Awolowo University](https://oauife.edu.ng/). My research interests lies in the field of
 **computer vision** and **multimodal representation learning**, with an emphasis on
 **foundation model pretraining** for computational pathology and dental imaging.
 
@@ -39,9 +39,8 @@ applications in oral and maxillofacial medicine.
 My research interest lies in :
 
 - Pretraining **foundation models** for computational pathology (Oral pathology) and Oral Radiology(2D & 3D)
-- **Multi-instance learning** for Whole Sliding imaging 
+- **Multi-instance learning** for Whole Sliding imaging
 - Developing Multimodal learning models for Dental imaging interpretation: **CBCT, CT, MRI, Panaromic, Intra-oral**
 - Video understanding for surgical procedures
 
 Feel free to reach out to  me  for  Research Collaborations, research ideas, or chat about Life Experiences
-
