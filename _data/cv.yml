@@ -1,11 +1,8 @@
 - title: Education
   type: map
   contents:
-    - title : Bachelor in Dentistry(BCH.D)
-      name: Abidoye Anuoluwapo
-      institution : University of Obafemi Awolowo Ile-Ife Nigeria
-      year : 2025 - 2030
+    - title: "Bachelor in Dentistry (BCH.D)"
+      name: "Abidoye Anuoluwapo"
+      institution: "Obafemi Awolowo University, Ile-Ife, Nigeria"
+      year: "2025 - 2030"
       value: English
-
-
-  
