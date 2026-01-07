@@ -1,9 +1,6 @@
 github_users:
--  Anuoluwapo65
-  
+  - Anuoluwapo65
 
 repo_description_lines_max: 2
 
-github_repos:
-  
-[]
+github_repos: []
