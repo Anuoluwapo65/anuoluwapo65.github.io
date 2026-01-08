@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-anuoluwapo",
-          title: "Anuoluwapo",
+  },{id: "nav-cv",
+          title: "cv",
           description: "Curriculum Vitae of Abidoye Anuoluwapo.",
           section: "Navigation",
           handler: () => {
